@@ -879,4 +879,4 @@ function generateKissMarryKillEmbed(celebrities) {
   return embed;
 }
 
-client.login('MTEwOTkzODY2OTM2MTU2MTc0MQ.G8UKGm.lfLW_lVjfQioVxxB6ZdFP4UguULhp5W3MH1Hsc');
+client.login('');
